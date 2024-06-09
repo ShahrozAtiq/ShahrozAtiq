@@ -13,6 +13,6 @@
     <td align="center"><a href="mailto:shahrozatiq@outlook.com">Send me an email</br>shahrozatiq@outlook.com</a></td>
     <td align="center"><a href="#">Chat on discord</br>shz#1259</a></td>
     <td align="center">Chat with me on Skype<a href="skype:live:.cid.d443850fdc6504ea?chat"></br>live:.cid.d443850fdc6504ea</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/shahroz-atiq-73335b270/">Connect with me on LinkedIn</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/shahroz-atiq/">Connect with me on LinkedIn</a></td>
   </tr>
 </table>
